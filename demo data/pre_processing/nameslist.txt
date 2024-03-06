@@ -1,0 +1,2 @@
+Data_name	polarity	replicates
+TAR_100nm	neg	2

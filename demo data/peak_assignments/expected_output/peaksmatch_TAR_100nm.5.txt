@@ -1,0 +1,1 @@
+Window	Seq	theory_m/z	theory_m/z	Peak	ion	deletions	Score

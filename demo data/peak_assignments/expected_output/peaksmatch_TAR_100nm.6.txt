@@ -1,0 +1,4 @@
+Window	Seq	theory_m/z	theory_m/z	Peak	ion	deletions	Score
+64	UUAAGC	1384.1873	275.8297	275.8299	a-B5_5-	ladder
+108	GCCCGU	1374.203	273.8328	273.833	a-B5_5-	ladder
+109	CCCGUC	1374.203	273.8328	273.833	a-B5_5-	ladder
